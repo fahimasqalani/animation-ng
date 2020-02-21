@@ -1,1 +1,1 @@
-#Simple animation study demo based on udemy courses by Maximilian Schwarzmuller
+#Simple animation study demo based on udemy course by Maximilian Schwarzmuller
