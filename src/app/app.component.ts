@@ -15,7 +15,7 @@ import {
   animations: [
     trigger('divState', [
       state('normal', style({
-        'background-color': 'red',
+        'background-color': 'green',
         transform: 'translateX(0)'
       })),
       state('highlighted', style({
@@ -27,7 +27,7 @@ import {
     ]),
     trigger('wildState', [
       state('normal', style({
-        'background-color': 'red',
+        'background-color': 'purple',
         transform: 'translateX(0) scale(1)'
       })),
       state('highlighted', style({
